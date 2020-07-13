@@ -4,6 +4,7 @@
 演示地址https://api.ghser.com/random  
 站长交流群53733035  
 点击链接加入群聊【站长交流裙】：https://jq.qq.com/?_wv=1027&k=eUMzlDPy  
-我只是添加了index首页以及3k8+图片外链  
+我只是添加了index首页以及3k7+图片外链  
+分别是2435张横图、1336张竖图  
 原作者：https://github.com/2374579255/acgAPI
 ![Image](https://cdn.ghser.com/2020/07/14/3654e8df7acb7.png)
